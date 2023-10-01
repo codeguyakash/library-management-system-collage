@@ -1,5 +1,5 @@
 
-// import java.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException; error
+import java.mysql.jdbc.exceptions.MySQLIntegrityConstraintViolationException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
